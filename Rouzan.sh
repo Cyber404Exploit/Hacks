@@ -10,7 +10,7 @@ clear
 	BrightBlue='\033[34m' #Cahaya Biru
 	echo
 	echo
-	python2 sploit.py
+	python2 lock.py
 	echo
 	clear
 	echo
@@ -68,7 +68,7 @@ clear
 	echo
 	echo
 	echo $blue"         ======================+++++++++++==================="
-	echo $red"            Btw Jika Anda Cewe hubungi :081316577616"
+	echo $red"            Btw Jika Anda Cewe hubungi :085865805481"
 	sleep 1
 	echo '''\a
 	\033[33;1m                            _  _
@@ -95,16 +95,16 @@ clear
 	clear
 	echo
 	echo $pur"==================="$cy" ============================="
-	echo $i"##"$me"  AUTHOR  :  ⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ  "$i"               ##"
-	echo $i"##"$pu"  WhatsApp:  081316577616"$i"                  ##"
-	echo $i"##"$me"  Blogger :  myamazingapk.blogspot.com"$i"     ##"
-	echo $i"##"$pu"  YOUTUBE :  TryOne"$i"                        ##"
+	echo $i"##"$me"  AUTHOR  :  RouzanSantriCyber21  "$i"               ##"
+	echo $i"##"$pu"  WhatsApp:  085865805481"$i"                  ##"
+	echo $i"##"$me"  Facebook :  Rouzan Cyber ID"$i"     ##"
+	echo $i"##"$pu"  Email :  rouzannurulfalah21@gmail.com"$i"                        ##"
 	echo $pur"==================="$cy" ============================="
-	echo $i"[" $me" INI TOOLS GERATIS GAYN", $bi"DILARANG KERAD MENJUALNYA KE PIHAK LAINNYA" $i"]"
-	echo $i"[" $me" TOOLS FREE USE, NO NEED TO PAYS" $pu"!!!" $i"]"
+	echo $i"[" $me" This Tools is Free", $bi"Not For Sale For Anyone !!!" $i"]"
+	echo $i"[" $me" Ini Tools Gratis, Dilarang Menjual Tools Ini Kepada Siapapun, tanpa sepengetahuan Author nya !!!" $pu"!!!" $i"]"
 	echo #pu"~~~~~~~~~~~~~~~~~~~~~"$me"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 	echo
-	echo $cy"⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ Menu:"
+	echo $cy"Rouzan Hacks Menu:"
 	echo
 	echo $me"[==============="$pu"===============]"
 	echo $bi"["$pu"1"$bi"]"$i" Dark FB"
