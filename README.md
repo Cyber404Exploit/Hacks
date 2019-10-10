@@ -1,7 +1,3 @@
-# ToolsKeren
-# GANS BY ⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ
-# Datanglah Ke Blog saya :https://myamazingapk.blogspot.com
-
 # How To use:
 
 # $ pkg update && pkg upgrade
@@ -10,11 +6,11 @@
 # $ pkg install mechanize
 # $ pkg install openssh
 # $ pkg install git
-# $ git clone https://github.com/TheSploit/My-Tools
-# $ cd My-Tools
+# $ git clone https://github.com/Cyber404Exploit/Hacks
+# $ cd Hacks
 # $ ls
-# $ sh TheSploit.sh
+# $ sh Rouzan.sh
 
-## Contact : 081316577616
+## Contact : 085865805481 (WhatsApp Only)
 
-<noscript><a href="https://liberapay.com/TheSploit/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
